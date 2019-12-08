@@ -37,7 +37,7 @@ p18
 (dp20
 S'text'
 p21
-V\u000aClick [[here]] to begin your journey to find One-Eyed Willy's treasure!\u000a\u000a(Make sure sound is turned on)\u000a\u000a<audio autoplay>\u000a  <source src="y2mate.com - the_goonies_theme_intro_vZFibw4SXIM.wav" type ="audio/mpeg">\u000a</audio>\u000a\u000a<img src= "One_Eyed_Willy.jpg">\u000a
+V\u000aClick [[here]] to begin your journey to find One-Eyed Willy's treasure!\u000a\u000a(Make sure sound is turned on)\u000a\u000a<audio autoplay preload="auto">\u000a  <source src="y2mate.com - the_goonies_theme_intro_vZFibw4SXIM.wav" type ="audio/mpeg">\u000a</audio>\u000a\u000a<img src= "One_Eyed_Willy.jpg">\u000a
 p22
 sS'title'
 p23
@@ -52,8 +52,8 @@ p26
 I12
 I8
 I15
-I18
-I27
+I38
+I29
 I6
 I342
 I0
